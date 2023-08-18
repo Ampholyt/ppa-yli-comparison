@@ -1,5 +1,5 @@
 ## Snakemake workflow for the results of the analysis and comparison of the two non-conventional yeasts P. pastoris and Y. lipolytica
-This workflow will generate all images used in the Thesis "Comparing genome-scale models of the non-conventional yeast Y. lipolytica and P. pastoris"
+This workflow will generate all images used in the thesis "Comparing genome-scale models of the non-conventional yeast Y. lipolytica and P. pastoris"
 
 ### Getting started
 0. Install the package manager [conda](https://docs.conda.io/projects/conda/en/latest/user-guide/install/index.html)
@@ -25,16 +25,16 @@ This workflow is testes with Python 3.8
     - Yli:
         - Experimental results -> Image (yli_fba_plot.py)
         - RSS -> best performing models 
-        - (Currency analysis) (Planed step)
+        - (Currency analysis)
     - Ppa:
         - Experimental results (Ppa) -> Image (ppa_fba_plot.py)
         - (RSS) (not necessary because both models will be used for further analysis)
-        - (Currency analysis) (Planed step)
+        - (Currency analysis) 
     
 - Species Comparison:
     - Growth on different growth conditions -> Image (biomass yield production per carbon source in C mol/gDCW/h) (carbon_comparison.py)
     - Flux Variability -> Table of metabolic flux ranges (turned into map manually)
 
     - EFM decomposition analysis (iLC915)
-        - ipynb: analysis of numbers of active reactions
-        - ipynb: table of grouped EFMs: proportion to biomass, oxygen uptake and carbon uptake
+        - analysis of numbers of active reactions
+        - table of grouped EFMs: proportion to biomass, oxygen uptake and carbon uptake
