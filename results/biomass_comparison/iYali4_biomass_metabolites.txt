@@ -1,0 +1,49 @@
+iYali4
+Metabolites for the reaction: biomass_C (id: biomass_C)
+(1-3)-beta-D-glucan[cy] (m1123): -0.943397
+H2O[cy] (m32): -23.09
+L-aspartate[cy] (m267): -0.186531
+ATP[cy] (m141): -23.09
+AMP[cy] (m86): -0.055401
+trehalose[cy] (m294): -0.00686
+L-glutamate[cy] (m50): -0.243904
+L-arginine[cy] (m310): -0.125563
+L-glutamine[cy] (m130): -0.243866
+L-alanine[cy] (m114): -0.567939
+L-glycine[cy] (m272): -0.509943
+L-methionine[cy] (m74): -0.044232
+L-proline[cy] (m765): -0.206372
+L-asparagine[cy] (m319): -0.186498
+CMP[cy] (m95): -0.05721
+L-cysteine[cy] (m443): -0.003632
+dAMP[cy] (m89): -0.01007
+dCMP[cy] (m459): -0.010436
+dGMP[cy] (m465): -0.009226
+dTMP[cy] (m505): -0.010353
+ergosterol[cy] (m1000): -0.035251
+chitin_H2O(C8H13NO5)n[cy] (m401): -0.868358
+GMP[cy] (m93): -0.050871
+L-histidine[cy] (m615): -0.053881
+L-isoleucine[cy] (m743): -0.090566
+L-leucine[cy] (m775): -0.19455
+L-lysine[cy] (m793): -0.275005
+mannan[cy] (m1324): -0.235849
+phosphatidate_ActiveX VT_ERROR:[lp] (m1705): -5.8e-05
+phosphatidylcholine[lp] (m1701): -0.000346
+phosphatidylethanolamine[lp] (m1700): -0.000237
+L-phenylalanine[cy] (m859): -0.082571
+phosphatidyl-L-serine[em] (m1631): -3.5e-05
+1-phosphatidyl-1D-myo-inositol_ActiveX VT_ERROR:[em] (m1648): -7.5e-05
+L-serine[cy] (m441): -0.284699
+sulphate[cy] (m964): -0.02
+L-threonine[cy] (m770): -0.210543
+triglyceride_ActiveX VT_ERROR:[lp] (m1640): -0.000234
+L-tryptophan[cy] (m772): -0.002154
+L-tyrosine[cy] (m992): -0.041282
+UMP[cy] (m149): -0.059363
+L-valine[cy] (m1008): -0.172773
+zymosterol[cy] (m359): -0.003029
+H+_p+1[cy] (m10): 23.09
+phosphate[cy] (m35): 23.09
+ADP[cy] (m143): 23.09
+biomass[cy] (m1401): 1.0

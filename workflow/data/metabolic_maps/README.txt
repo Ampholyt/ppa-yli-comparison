@@ -1,0 +1,2 @@
+In glycolysis_citrate_table the reactions of the central carbon metabolism are listed.
+These will be chosen from the Flux Variability Analysis (FVA) of the models and stored in a table specified in the config file.

@@ -1,0 +1,25 @@
+EC;enzyme_name;enzyme_abbreviation;pathway_name;location
+2.7.1.1;hexokinase;GLK;glycolysis;cytosol
+5.3.1.9;glucose-6-phosphate isomerase;PGI;glycolysis;cytosol
+2.7.1.11;6-phosphofructokinase;PFK;glycolysis;cytosol
+4.1.2.13;fructose-bisphosphate aldolase;FBA;glycolysis;cytosol
+5.3.1.1;triosephosphate isomerase;TPI;glycolysis;cytosol
+1.2.1.12;glyceraldehyde-3-phosphate dehydrogenase;GAPA;glycolysis;cytosol
+2.7.2.3;phosphoglycerate kinase;PGK;glycolysis;cytosol
+5.4.2.11;2,3-bisphosphoglycerate-dependent phosphoglycerate mutase;gpmA;glycolysis;cytosol
+4.2.1.11;enolase;ENO;glycolysis;cytosol
+2.7.1.40;pyruvate kinase;PYK;glycolysis;cytosol
+6.4.1.1;pyruvate carboxylase (Pyruvate -> Oxaloacetate);--;PyruvateOxidation;cytosol
+pyruvate_mitochodrial_transport;pyruvate mitochondrial transport via proton symport;--;PyruvateOxidation;cytosol <=> mitochondrial
+1.1.1.37;malate dehydrogenase (malate to oxaloacetate (producing oxaloacetate));--;PyruvateOxidation;cytosol <=> mitochondrial
+1.2.4.1;pyruvate dehydrogenase E1 (Pyruvate -> Acetyl-CoA);--;PyruvateOxidation;mitochondrial
+2.3.1.12;pyruvate dehydrogenase E2 component (Pyruvate -> Acetyl-CoA);--;PyruvateOxidation;mitochondrial
+2.3.3.1;citrate synthase (Oxaloacetate + Acetyl-CoA -> Citrate);--;TCA;mitochondrial
+4.2.1.3;aconitase (citrate to cis-aconitate(3-));--;TCA;mitochondrial
+1.1.1.41;isocitrate dehydrogenase (NAD+);--;TCA;mitochondrial
+1.2.4.2;oxoglutarate dehydrogenase (lipoamide);--;TCA;mitochondrial
+2.3.1.61;oxoglutarate dehydrogenase (dihydrolipoamide S-succinyltransferase);--;TCA;mitochondrial
+6.2.1.4;succinate-CoA ligase (ADP-forming);--;TCA;mitochondrial
+6.2.1.5;succinate-CoA ligase (ADP-forming) or itaconate-CoA ligase (ADP-forming);--;TCA;mitochondrial
+1.3.5.1;succinate dehydrogenase (ubiquinone-6);--;TCA;mitochondrial
+4.2.1.2;fumarase (fumarate to malate);--;TCA;mitochondrial

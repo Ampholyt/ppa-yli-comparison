@@ -1,0 +1,1 @@
+The used config file is provided here which can be adjusted as needed. Interested readers should also investigate the helpfunction.py script.

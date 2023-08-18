@@ -1,0 +1,14 @@
+EC;enzyme_name;enzyme_abbreviation;pathway_name;location;iMT1026v3_flux;iMT1026v3_reaction_id;iMT1026v3_min;iMT1026v3_max;iYli21_flux;iYli21_reaction_id;iYli21_min;iYli21_max
+6.4.1.1;pyruvate carboxylase (Pyruvate -> Oxaloacetate);--;TCA;cytosol;29.906765717437494;PC;29.906765717369765;29.90676571740437;46.7667133397079;R690;46.76671333966262;46.76671333970734
+pyruvate_mitochodrial_transport;pyruvate mitochondrial transport via proton symport;--;TCA;cytosol <=> mitochondrial;74.0751554144999;PYRt2m;0.0;74.07515541456846;53.098703907638296;R1311;0.0;53.09870390764566
+oxcalotransport;oxcaloacetate(c) -> oxcaloacetate(m);--;TCA;cytosol <=> mitochondrial;;;;;;;;
+1.2.4.1;pyruvate dehydrogenase (Pyruvate -> Acetyl-CoA);--;TCA;mitochondrial;;;;;49.777668001459006;R693;49.77766800141958;49.77766800147175
+2.3.3.1;citrate synthase (Oxaloacetate + Acetyl-CoA -> Citrate);--;TCA;mitochondrial;48.547252613124;CSm;47.81655208861437;48.54725261312413;33.86215015020239;R236;33.86215015014548;33.86215015022811
+4.2.1.3;aconitase (citrate to cis-aconitate(3-));--;TCA;mitochondrial;48.547252613124;ACONTm;-951.4527473870452;1000.0;8.014828927581576;R238;-966.1378498498544;1000.0
+1.1.1.41;isocitrate dehydrogenase (NAD+);--;TCA;mitochondrial;38.37261482010827;ICDHxm;0.0;48.54725261313094;0.0;R487;0.0;1.0277290130034089e-10
+1.2.4.2;oxoglutarate dehydrogenase (lipoamide);--;TCA;mitochondrial;;;;;15.532576024242033;R614;15.532576024184507;15.532576024237148
+2.3.1.61;oxoglutarate dehydrogenase (dihydrolipoamide S-succinyltransferase);--;TCA;mitochondrial;29.21272414758334;AKGDbm;27.432578133337717;29.212724147555473;15.532576024242033;R613;15.532576024184507;15.532576024237148
+6.2.1.4;succinate-CoA ligase (ADP-forming);--;TCA;mitochondrial;-29.212628902064367;SUCOASm;-29.212628902058725;-27.432482888207993;15.532576024242033;R741;15.532576024183925;15.532576024244054
+1.3.5.1;succinate dehydrogenase (ubiquinone-6);--;TCA;mitochondrial;30.59994477194306;SUCD2_u6m;-857.634534029018;30.59994477200769;20.711144679037034;R740;20.711144678979636;20.71114467902274
+4.2.1.2;fumarase (fumarate to malate);--;TCA;mitochondrial;142.36547787674746;FUMm;142.36546597096992;1000.0;15.532576024242033;R314;15.53257602422128;15.532576024242378
+1.1.1.37;malate dehydrogenase (malate to oxaloacetate);--;TCA;mitochondrial;181.81247486125955;MDHm;181.81247486126597;1000.0;37.142787873296975;R533;24.122473309395595;1000.0

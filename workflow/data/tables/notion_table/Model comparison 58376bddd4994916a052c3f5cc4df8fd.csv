@@ -1,0 +1,30 @@
+﻿Model name,plotted,Organism names,Strain(s),Publication,Exchange_Reactions,Glucose Id,Biomass Id,common_exchange_reactions,Reactions,Metabolites,Genes,Notes
+iMT1026v3,True,Pichia pastoris,"DSMZ 70382, GS115",https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5743807/#mbt212871-bib-0060,175,Ex_glc_D,"[('growth', 'Growth'), ('BIOMASS', 'Biomass composition (ghttps://file+.vscode-resource.vscode-cdn.net/g
+)'), ('Ex_biomass', 'Biomass exchange'), ('BIOMASS8020', 'Biomass composition 80:20 (ghttps://file+.vscode-resource.vscode-cdn.net/g
+)'), ('BIOMASS6040', 'Biomass composition 60:40 (ghttps://file+.vscode-resource.vscode-cdn.net/g
+)'), ('BIOMASS4060', 'Biomass composition 40:60 (ghttps://file+.vscode-resource.vscode-cdn.net/g
+)'), ('BIOMASS8020b', 'Biomass composition 80:20 (ghttps://file+.vscode-resource.vscode-cdn.net/g
+)'), ('BIOMASS6040b', 'Biomass composition 60:40 (ghttps://file+.vscode-resource.vscode-cdn.net/g
+)'), ('BIOMASS4060b', 'Biomass composition 40:60 (ghttps://file+.vscode-resource.vscode-cdn.net/g
+)'), ('BIOMASS_glyc', 'Biomass composition (ghttps://file+.vscode-resource.vscode-cdn.net/g
+)- Glycerol'), ('BIOMASS_meoh', 'Biomass composition (ghttps://file+.vscode-resource.vscode-cdn.net/g
+)- Methanol')]",95,2237,1706,1026,
+iYli21,True,Yarrowia lipolytica,W29,https://www.sciencedirect.com/science/article/pii/S200103702200174X?via%3Dihub,182,R1070,biomass_C,95,2285,1868,1058,
+iYali4,True,Yarrowia lipolytica,CLIB122,https://www.nature.com/articles/npjsba20165,153,1714,"[('2110', 'yeast 5 biomass pseudoreaction'), ('2111', 'growth'), ('2133', 'yeast 6 biomass pseudoreaction'), ('4041', 'yeast 8 biomass pseudoreaction'), ('xBIOMASS', 'Biomass production'), ('xMAINTENANCE', 'Non-growth associated maintenance (NGAM)')]",95,1985,1683,901,
+iMK735,True,Yarrowia lipolytica,CLIB122,https://bmcsystbiol.biomedcentral.com/articles/10.1186/s12918-015-0217-4,123,EX_glc(e),"['biomass_004', 'biomass_013', 'biomass_051', 'biomass_20', 'biomass_40', 'biomass_60', 'biomass_80', 'biomass_WOtag', 'biomass_WOtG', 'biomass_C']",not tested yet,1342,1115,735,
+iNL895,True,Yarrowia lipolytica,CLIB122,https://bmcsystbiol.biomedcentral.com/articles/10.1186/1752-0509-6-35,222,r_51_exchange,"[('r_1814', 'growth'), ('r_021_xxx', 'biomass production'), ('biomass_C', 'biomass_C')]",not tested yet,2008,1590,899,iNL895 got only one compartment
+iYli_2.0,True,Yarrowia lipolytica,CLIB122,https://bioresourcesbioprocessing.springeropen.com/articles/10.1186/s40643-017-0180-6,139,R1294,"[('biomass_C', 'biomass_C')]",not tested yet,1479,1087,645,
+iYLI647,True,Yarrowia lipolytica,CLIB122,https://bmcsystbiol.biomedcentral.com/articles/10.1186/s12918-018-0542-5,124,EX_glc(e),"[('biomass_C', 'biomass yarrowia carbon limiting'), ('biomass_N', 'biomass yarrowia nitrogen limiting')]",not tested yet,1348,1121,646,
+iYL619_PCP (NOT YET INTEGRATED),False,Yarrowia lipolytica,CLIB122,https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0051535,,"- ","- ","- ",0,0,0,
+iLC915,True,Pichia pastoris,"DSMZ 70382, X-33",https://bmcsystbiol.biomedcentral.com/articles/10.1186/1752-0509-6-24,54,r1145,"[('r1339', 'Growth'), ('r1133', 'Drain of biomass'), ('r1090', 'Biomass (ghttps://file+.vscode-resource.vscode-cdn.net/gDW
+)'), ('r1187', 'Biomass formation')]",not tested yet,1423,1303,915,
+PpaMBEL1254,False,Pichia pastoris,DSMZ 70382,https://onlinelibrary.wiley.com/doi/abs/10.1002/biot.201000078,158,EX_glcD_e,"[('EX_Biomass', 'EX_Biomass')]",not tested yet,1412,1216,0,
+iMT1026,False,Pichia pastoris,"DSMZ 70382, GS115",https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4734642/,,Ex_glc_D,"[('growth', 'Growth'), ('BIOMASS', 'Biomass composition (ghttps://file+.vscode-resource.vscode-cdn.net/g
+)'), ('Ex_biomass', 'Biomass exchange'), ('BIOMASS8020', 'Biomass composition 80:20 (ghttps://file+.vscode-resource.vscode-cdn.net/g
+)'), ('BIOMASS6040', 'Biomass composition 60:40 (ghttps://file+.vscode-resource.vscode-cdn.net/g
+)'), ('BIOMASS4060', 'Biomass composition 40:60 (ghttps://file+.vscode-resource.vscode-cdn.net/g
+)'), ('BIOMASS8020b', 'Biomass composition 80:20 (ghttps://file+.vscode-resource.vscode-cdn.net/g
+)'), ('BIOMASS6040b', 'Biomass composition 60:40 (ghttps://file+.vscode-resource.vscode-cdn.net/g
+)'), ('BIOMASS4060b', 'Biomass composition 40:60 (ghttps://file+.vscode-resource.vscode-cdn.net/g
+)')]",not tested yet,2210,2755,0,
+iPP668,False,Pichia pastoris,GS115,https://microbialcellfactories.biomedcentral.com/articles/10.1186/1475-2859-9-50,,,,,,,,

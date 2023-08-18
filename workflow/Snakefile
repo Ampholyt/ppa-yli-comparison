@@ -1,0 +1,54 @@
+# call: snakemake --cores 1 --keep-going --use-conda
+import yaml
+import os
+
+config_name = 'model_config'
+config_path = f'config/{config_name}.yaml'
+
+# load config
+with open(config_path, 'r') as file:
+    config = yaml.safe_load(file)
+
+# helper function
+sys.path.append('scripts/') 
+import helperFunction as hf
+
+# load models
+# for all comparisons of yli and ppa and standard models like ecoli and scere
+all_models = hf.get_all_models()
+# # quick fix: 
+# all_models = {
+#     # 'iAF1260': config['models']['ecoli'],
+#     # 'iMM904': config['models']['scere'],
+#     # 'PpaMBEL1254': config['models']['ppaMBEL1254'],
+#     # 'yli647_uncorr': config['models']['yli647_uncorr'], 
+#     # 'iYali4_uncorr': config['models']['yli4_uncorr'], 
+#     # 'iMK735_uncorr': config['models']['yliMK735_uncorr'],
+#     'iNL895_uncorr': config['models']['yliNL895_uncorr'],
+#     'iNL895_corr': config['models']['yliNL895_corr'],
+# }
+
+rule all:
+    input:
+        # Quality of Models:
+        ## MEMOTE reports
+        expand("results/memote/{model_name}_report.html", model_name=all_models.keys()),
+        ## Model Errors & Model Numbers
+        config['results']['model_errors'], # error table (used in appendix)
+        config['results']['model_numbers'], # model numbers (added memote scores and used for thesis)
+        # FBA Plots (growth experiments and growth simulations)
+        ## Y. lipolytica
+        'results/FBA_results/yli_glucose_growth_comparison.png',
+        ## P. pastoris
+        ### Experimental data for non-growth associated maintenance of 2.81 and 2.26 mmol/gDCW/h ATP
+        expand('results/FBA_results/ppa_glucose_growth_comparison_{NGAM}.png', NGAM=['281','226']),
+        ## FBA Carbon comparison
+        'results/FBA_results/carbon_comparison.png',
+        ## EFM decomposition of iLC915
+        'results/EFM_decomp_iLC915/scaled_coefs.png',
+        'results/EFM_decomp_iLC915/active_reactions.png',
+        'results/EFM_decomp_iLC915/upset_plot_EFM1-4.png',
+
+include: "rules/quality_control.smk"
+include: "rules/fba_results.smk"
+include: "rules/efm_decomposition.smk"

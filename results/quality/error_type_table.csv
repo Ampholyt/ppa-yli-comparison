@@ -1,0 +1,8 @@
+Model Name;Error Type(s)
+iYali4_corr;['SBML_ERROR']
+iYali4_uncorr;['SBML_WARNING', 'COBRA_WARNING']
+iMK735_uncorr;['COBRA_WARNING']
+iNL895_corr;['SBML_ERROR']
+iNL895_uncorr;['SBML_WARNING', 'COBRA_WARNING']
+PpaMBEL1254;['COBRA_ERROR']
+iMT1026v3;['COBRA_WARNING', 'COBRA_CHECK']

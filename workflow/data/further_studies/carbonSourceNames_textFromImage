@@ -1,0 +1,197 @@
+LEFT SIDE:
+L-Arabinose = EX:R1201,L-arabinose exchange,0.0,0.0,TR:R1200,L-arabinose transport,True,"['L-arabinose_C5H10O5', 'L-arabinose_C5H10O5']","[<Metabolite m1283[C_ex] at 0x7fb93831d5b0>, <Metabolite m308[C_cy] at 0x7fb94b5d7be0>]"
+N-Acetyl-D-Glucosamine = EX:R2011,N-Acetyl-D-Glucosamine exchange,0.0,1000.0,TR:R2012,N-Acetyl-D-Glucosamine transport,True,"['N-Acetyl-D-Glucosamine', 'N-Acetyl-D-Glucosamine']","['m1883[C_cy]', 'm1882[C_ex]']"
+D-Saccharic acid -
+Succinic acid = EX:R1330,succinate exchange,0.0,0.0,TR:R1331,succinate transport,True,"['succinate_C4H6O4', 'succinate_C4H6O4']","['m1368[C_ex]', 'm541[C_cy]']"
+D-Galactose -
+L-Aspartic acid = EX:R1204,L-aspartate exchange,0.0,1000.0,TR:R872,L-aspartate transport,True,"['H+_p+1', 'L-aspartate_C4H7NO4', 'H+_p+1', 'L-aspartate_C4H7NO4']","['m342[C_ex]', 'm1068[C_ex]', 'm10[C_cy]', 'm267[C_cy]']"
+L-Proline = EX:R1224,L-proline exchange,0.0,0.0,TR:R893,L-proline transport,True,"['H+_p+1', 'L-proline_C5H9NO2', 'H+_p+1', 'L-proline_C5H9NO2']","['m342[C_ex]', 'm1085[C_ex]', 'm10[C_cy]', 'm765[C_cy]']"
+D-Alanine -
+D-Trehalose -
+D-Mannose = EX:R1071,D-mannose exchange,0.0,0.0,TR:R843,D-mannose transport,False,"['H+_p+1', 'D-mannose_C6H12O6', 'H+_p+1', 'D-mannose_C6H12O6']","['m342[C_ex]', 'm1044[C_ex]', 'm10[C_cy]', 'm612[C_cy]']"
+Dulcitol -
+D-Serine -
+D-Sorbitol =?| EX:not existing,TR:R1073,D-sorbitol transport,True,"['D-glucitol_C6H14O6', 'D-glucitol_C6H14O6']","['m1199[C_ex]', 'm457[C_cy]']"
+Glycerol = EX:R1141,glycerol exchange,0.0,0.0,TR:R856,glycerol transport,False,"['H+_p+1', 'glycerol_C3H8O3', 'H+_p+1', 'glycerol_C3H8O3']","['m342[C_ex]', 'm1056[C_ex]', 'm10[C_cy]', 'm277[C_cy]']"
+L-Fucose -
+D-Glucuronic acid -
+D-Gluconic acid = EX:R2014,D-gluconate exchange,0.0,1000.0,TR:R2015,D-gluconate transport via diffusion,True,"['D-gluconate', 'D-gluconate_ActiveX VT_ERROR:']" (gluconate ion)
+D,L-a-Glycerol-phosphate -
+D-Xylose = EX:R1074,D-xylose exchange,0.0,0.0,TR:R1075,D-xylose transport,True,"['D-xylose_C5H10O5', 'D-xylose_C5H10O5']"
+L-Lactic acid = EX:R948,(S)-lactate exchange,0.0,1000.0,TR:R886,L-lactate transport,False,"['H+_p+1', '(S)-lactate_C3H6O3', '(S)-lactate_C3H6O3', 'H+_p+1']"
+Formic acid -
+D-Mannitol =?| EX:not existing,TR:R1965,mannitol transport extracellular,True,"['D-mannitol_', 'D-mannitol_']"
+L-Glutamic acid = EX:R1213,L-glutamine exchange,0.0,0.0,TR:R880,L-glutamine transport,True,"['H+_p+1', 'L-glutamine_C5H10N2O3', 'H+_p+1', 'L-glutamine_C5H10N2O3']","['m342[C_ex]', 'm1074[C_ex]', 'm10[C_cy]', 'm130[C_cy]']"
+D-Glucose-6-phosphate - 
+D-Galactonic acid-y-lactone -
+D,L-Malic acid -/
+D-Ribose = EX:R1072,D-ribose exchange,0.0,0.0,TR:R1317,ribose transporter,False,"['D-ribose_C5H10O5', 'D-ribose_C5H10O5']","['m1203[C_ex]', 'm594[C_cy]']"
+Tween 20 -/ 
+L-Rhamnose -
+D-Fructose = EX:R1065,D-fructose exchange,0.0,0.0,TR:R839,D-fructose transport,False,"['H+_p+1', 'D-fructose_C6H12O6', 'H+_p+1', 'D-fructose_C6H12O6']","['m342[C_ex]', 'm963[C_ex]', 'm10[C_cy]', 'm458[C_cy]']"
+
+Acetic acid = EX:R999,acetate exchange,0.0,0.0,TR:R813,acetate transport,True,"['acetate_C2H4O2', 'acetate_C2H4O2']","['m202[C_cy]', 'm1025[C_ex]']"
+a-D-Glucose = EX:R1070,D-glucose exchange,-2.43,1000.0,TR:R851,glucose transport,False,"['D-glucose_C6H12O6', 'D-glucose_C6H12O6']","['m511[C_ex]', 'm295[C_cy]']"
+Maltose -
+D-Melibiose -
+Thymidine -
+L-Asparagine = EX:R1203,L-asparagine exchange,0.0,1000.0TR:R868,L-asparagine transport,True,"['H+_p+1', 'L-asparagine_C4H8N2O3', 'H+_p+1', 'L-asparagine_C4H8N2O3']","['m342[C_ex]', 'm1065[C_ex]', 'm10[C_cy]', 'm319[C_cy]']"
+D-Aspartic acid -
+D-Glucosaminic acid -
+1,2-Propanediol -
+Tween 40 -/
+a-Keto-Glutaric acid = R964,2-oxoglutarate exchange,0.0,0.0,TR:R1015,alpha-ketoglutarate/malate transporter,True,"['2-oxoglutarate_C5H6O5', '(S)-malate_C4H6O5', '(S)-malate_C4H6O5', '2-oxoglutarate_C5H6O5']","['m51[C_cy]', 'm1130[C_ex]', 'm539[C_cy]', 'm1145[C_ex]']"
+a-Keto-Butyric acid -/
+a-Methyl-D-Galactoside -
+a-D-Lactose - 
+Lactulose - 
+Sucrose -
+Uridine -
+L-Glutamine = R1213,L-glutamine exchange,0.0,0.0
+a-Tartaric acid -
+D-Glucose-1-phosphate -
+D-Fructose-6-phosphate -
+Tween 80 -/ 
+a-Hydroxy Glutaric acid-g-lactone -
+a-Hydroxy-Butyric acid -/ 
+B-Methyl-D-Glucoside -
+Adonitol -
+Maltotriose -
+2-Deoxy-Adenosine -
+Adenosine -
+Glycyl-L-Aspartic acid -/
+Citric acid = EX:R1045,citrate(3-) exchange,0.0,1000.0
+Inositol -
+D-Threonine -
+Fumaric acid = EX:R1133,fumarate(2-) exchange,0.0,0.0
+Bromo-Succinic acid -
+Propionic acid -/
+Mucic acid -
+Glycolic acid -
+Glyoxylic acid -
+D-Cellobiose -
+Inosine -
+Glycyl-L-Glutamic acid -/
+Tricarballylic acid -
+L-Serine = R1226,L-serine exchange,0.0,1000.0
+L-Threonine = R1231,L-threonine exchange,0.0,1000.0
+L-Alanine = R1196,L-alanine exchange,0.0,1000.0
+L-Alanyl-Glycine -/
+Acetoacetic acid -
+N-Acetyl-D-Mannosamine -
+Mono Methyl Succinate -/
+Methyl Pyruvate -/
+D-Malic acid -/
+L-Malic acid = R949,(S)-malate exchange,0.0,0.0
+Glycyl-L-Proline -/
+p-Hydroxy-Phenylacetic acid - 
+m-Hydroxy-Phenylacetic acid -
+Tyramine - 
+D-Psicose -
+L-Lyxose -/ 
+Glucuronamide -
+Pyruvic acid = R1310,pyruvate exchange,0.0,0.0R919,TR:pyruvate transport,True,"['H+_p+1', 'pyruvate_C3H4O3', 'pyruvate_C3H4O3', 'H+_p+1']","['m342[C_ex]', 'm1103[C_ex]', 'm4[C_cy]', 'm10[C_cy]']"
+L-Galactonic acid-y-lactone -
+D-Galacturonic acid -
+B-Phenylethylamine -
+Ethanolamine -
+RIGHT SIDE
+Chondroitin sulfate C -
+a-Cyclodextrin -
+B-Cyclodextrin -
+Y-Cyclodextrin -
+Dextrin -
+Gelatin -/ 
+Glycogen -
+Inulin -
+Laminarin -
+Mannan -
+Pectin -
+N-Acetyl-D-Galactosamine -
+N-Acetyl-Neuraminic acid -
+B-D-Allose -
+Amygdalin -
+D-Arabinose = R1062,D-arabinose exchange
+D-Arabitol = R1981,D-Arabitol exchange
+L-Arabitol -
+Arbutin -
+2-Deoxy-D-ribose -/
+i-Erythritol =?| EX:not existing,TR:R1963,erythritol transport extracellular,True,"['erythritol_', 'erythritol_']","['m1825[C_cy]', 'm1826[C_ex]']"
+D-Fucose -
+3-o-B-D-Galactopyranosyl-D-arabinose -
+Gentiobiose -
+L-Glucose -
+D-Lactitol -
+D-Melezitose -
+Maltitol -
+a-Methyl-D-Glucoside -
+B-Methyl-D-Galactoside -
+3-0-Methyl-Glucose -
+B-Methyl-D-Glucuronic acid -
+a-Methyl-D-Mannoside -
+B-Methyl-D-Xyloside -
+Palatinose = EX:R1984,Palatinose exchange,0.0,1000.0,TR:R1985,Palatinose hydrolase,False,"['H2O_H2O', 'Palatinose', 'D-glucose_C6H12O6', 'D-fructose_C6H12O6']","['m214[C_ex]', 'm1838[C_ex]', 'm511[C_ex]', 'm963[C_ex]']"
+D-Raffinose -/
+Salicin -/
+Sedoheptulosan -
+L-Sorbose -
+Stachyose -
+D-Tagatose -
+Turanose -
+Xylitol -/
+N-Acetyl-D-Glucosaminitol -/
+Y-Amino-Butyric acid = EX:R1134,gamma-aminobutyrate exchange,0.0,0.0,TR:R809,4-aminobutyrate transport,False,"['H+_p+1', 'gamma-aminobutyrate_C4H9NO2', 'H+_p+1', 'gamma-aminobutyrate_C4H9NO2']","['m342[C_ex]', 'm1021[C_ex]', 'm10[C_cy]', 'm133[C_cy]']"
+a-Amino-Valeric acid -/
+Butyric acid = EX:R1438,butyrate exchange,0.0,0.0,TR:R1441,butyrate (n-C4:0) transport,True,"['butyrate_ActiveX VT_ERROR:', 'butyrate_ActiveX VT_ERROR:']","['m1459[C_ex]', 'm1465[C_cy]']"
+Capric acid -
+Caproic acid  = EX:R1439,hexanoate exchange,0.0,0.0,TR:R1442,hexanoate (n-C6:0) transport,True,"['hexanoate_', 'hexanoate_']","['m1461[C_ex]', 'm1466[C_cy]']"
+Citraconic acid -
+D,L-Citramalic acid -
+D-Glucosamine = R1992,D-glucosamine exchange,0.0,1000.0
+2-Hydroxy-Benzoic acid -
+4-Hydroxy-Benzoic acid -
+B-Hydroxy-Butyric acid = R1994,(R)-3-Hydroxybutanoate exchange,0.0,1000.0
+Y-Hydroxy-Butyric acid - 
+a-Keto-Valeric acid -/
+Itaconic acid -
+5-Keto-D-Gluconic acid = R1998,5-dehydro-D-gluconate exchange,0.0,1000.0
+D-Lactic acid Methyl Ester -
+Malonic acid = R2001,malonate exchange,0.0,1000.0
+Melibionic acid -
+Oxalic acid -
+Oxalomalic acid = R2005,3-oxalomalate(3-) exchange,0.0,1000.0
+Quinic acid -
+D-Ribono-1,4-lactone -
+Sebacic acid -
+Sorbic acid -/
+Succinamic acid -/
+D-Tartaric acid -
+L-Tartaric acid -
+Acetamide -
+L-Alaninamide -
+N-Acetyl-L-Glutamic acid -
+L-Arginine = R1202,L-arginine exchange,0.0,0.0
+Glycine = R1143,glycine exchange,0.0,1000.0
+L-Histidine -/
+L-Homoserine -
+4-Hydroxy-L-Proline (trans) -
+L-Isoleucine -/
+L-Leucine = R1219,L-leucine exchange,0.0,0.0
+L-Lysine = R1220,L-lysine exchange,0.0,1000.0
+L-Methionine -
+L-Ornithine = R1282,ornithine exchange,0.0,0.0
+L-Phenylalanine -
+L-Pyroglutamic acid -
+L-Valine = R1234,L-valine exchange,0.0,0.0
+D,L-Carnitine - 
+Butylamine (sec) -
+D,L-Octopamine -
+Putrescine = R1301,putrescine exchange,0.0,0.0
+Dihydroxy-Acetone = R2008,Dihydroxy-Acetone exchange,0.0,1000.0
+2,3-Butanediol -
+2,3-Butanone -
+3-Hydroxy-2-Butanone -
+# ADDITIONAL:
+?EXC_OUT_m1803 = R1900,isocitrate_C6H8O7 exchange??
+?EXC_OUT_m1826 = R1966,erythritol_ exchange??
+?EXC_OUT_m1824 = R1967,D-mannitol_ exchange??

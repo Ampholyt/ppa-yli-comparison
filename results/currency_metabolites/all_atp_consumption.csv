@@ -1,0 +1,66 @@
+flux,reaction,percent,reaction_name,model
+-33.792414859042395,biomass_C,30.96,biomass_C,iYli_2.0
+-15.57395809282011,R0005,14.27,L-Glutamate:ammonia ligase (ADP-forming),iYli_2.0
+-10.23681423826108,R0779,9.38,Pyruvate:carbon-dioxide ligase (ADP-forming),iYli_2.0
+-10.0,R0371,9.16,ATP:beta-D-glucose 6-phosphotransferase,iYli_2.0
+-7.8625,R0542,7.2,ATP phosphohydrolase,iYli_2.0
+-7.686704555605057,R0271,7.04,ATP:L-aspartate 4-phosphotransferase,iYli_2.0
+-7.489426515840258,R0280,6.86,ATP:L-homoserine O-phosphotransferase,iYli_2.0
+-4.188182967656931,R0379,3.84,ATP:D-fructose-6-phosphate 1-phosphotransferase,iYli_2.0
+-2.7452861239914768,R0636,2.51,ATP:UDP phosphotransferase,iYli_2.0
+-2.290156884713213,R0162,2.1,Acetyl-CoA:carbon-dioxide ligase (ADP-forming),iYli_2.0
+-7.8625,xMAINTENANCE,36.19,Non-growth associated maintenance (NGAM),iYli21
+-6.527628986939356,biomass_C,30.04,biomass_C,iYli21
+-2.43,R387,11.18,hexokinase (D-glucose:ATP),iYli21
+-1.5462551526753012,R636,7.12,phosphofructokinase,iYli21
+-0.9624523893616116,R690,4.43,pyruvate carboxylase,iYli21
+-0.5303027130543749,R603,2.44,nucleoside-diphosphate kinase (ATP:UDP),iYli21
+-0.4925877746442582,R2081,2.27,L-Glutamate:ammonia ligase (ADP-forming),iYli21
+-30.58829101581773,biomass_C,43.28,biomass_C,iYali4(cor)
+-10.0,534,14.15,hexokinase (D-glucose:ATP),iYali4(cor)
+-7.8625,xMAINTENANCE,11.13,Non-growth associated maintenance (NGAM),iYali4(cor)
+-6.9318385331421934,886,9.81,phosphofructokinase,iYali4(cor)
+-3.356755611746837,958,4.75,pyruvate carboxylase,iYali4(cor)
+-2.484984018828337,811,3.52,nucleoside-diphosphate kinase (ATP:UDP),iYali4(cor)
+-2.308252848285325,476,3.27,glutamine synthetase,iYali4(cor)
+-23.35407677100508,biomass_C,32.67,biomass_C,iMK735(cor)
+-10.0,HEX1,13.99,hexokinase D glucoseATP,iMK735(cor)
+-7.8625,ATPM,11.0,ATP maintenance requirement,iMK735(cor)
+-7.043325083660292,ATPS,9.85,ATPase cytosolic,iMK735(cor)
+-6.667043270869102,PFK,9.33,phosphofructokinase,iMK735(cor)
+-3.4014752267295374,ATPCitL,4.76,ATP Citrate Lyase YL,iMK735(cor)
+-1.9727489045211215,PC,2.76,pyruvate carboxylase,iMK735(cor)
+-1.9509757035401971,GLNS,2.73,glutamine synthetase,iMK735(cor)
+-1.89727852139327,NDPK2,2.65,nucleoside diphosphate kinase ATPUDP,iMK735(cor)
+-1.6030742454091698,ACCOACr,2.24,acetyl CoA carboxylase reversible reaction,iMK735(cor)
+-9.487939876306204,r1187,46.29,Biomass formation,iLC915
+-2.810084,r1188,13.71,Maintenance,iLC915
+-2.43,r552,11.86,ATP:alpha-D-glucose 6-phosphotransferase,iLC915
+-1.7565961481520485,r557,8.57,ATP:D-fructose-6-phosphate 1-phosphotransferase,iLC915
+-1.0323563955038393,r1081,5.04,Acetyl-CoA:carbon-dioxide ligase (ADP-forming),iLC915
+-0.6701226798002782,r563,3.27,ATP:adenosine 5'-phosphotransferase,iLC915
+-0.4502691860217551,r614,2.2,ATP:UDP phosphotransferase,iLC915
+-40.48858725623305,biomass_C,41.04,biomass_C,iNL895(cor)
+-13.544159437353295,r_0515,13.73,glutamine synthetase,iNL895(cor)
+-9.975942168928624,r_0573,10.11,hexokinase (D-glucose:ATP),iNL895(cor)
+-6.699288284984771,r_0937,6.79,pyruvate carboxylase,iNL895(cor)
+-5.938777145836952,r_0859,6.02,phosphofructokinase,iNL895(cor)
+-3.8847405372029775,r_0233,3.94,aspartate kinase,iNL895(cor)
+-3.800811150239035,r_0588,3.85,homoserine kinase,iNL895(cor)
+-3.313714688815579,r_0779,3.36,nucleoside-diphosphate kinase (ATP:UDP),iNL895(cor)
+-3.006207761400651,r_0163,3.05,adenylate kinase,iNL895(cor)
+-19.15830294844153,BIOMASS_glyc,66.4,Biomass composition (g/g)- Glycerol,iMT1026v3
+-2.81,ATPM,9.74,ATP maintenance requirement,iMT1026v3
+-2.43,HEX1,8.42,hexokinase (D-glucose:ATP),iMT1026v3
+-1.1159511329283969,PFK,3.87,phosphofructokinase,iMT1026v3
+-0.7005929427001316,PC,2.43,pyruvate carboxylase,iMT1026v3
+-25.10825955467242,biomass_C,38.97,biomass yarrowia carbon limiting,iYLI647(cor)
+-10.0,HEX1,15.52,hexokinase D glucoseATP,iYLI647(cor)
+-7.8625,ATPM,12.2,ATP maintenance requirement,iYLI647(cor)
+-4.512953397340768,PFK,7.0,phosphofructokinase,iYLI647(cor)
+-2.1209283811941395,PC,3.29,pyruvate carboxylase,iYLI647(cor)
+-2.0975210306078296,GLNS,3.26,glutamine synthetase,iYLI647(cor)
+-2.0397884176141967,NDPK2,3.17,nucleoside diphosphate kinase ATPUDP,iYLI647(cor)
+-1.721485062375631,ACCOACr,2.67,acetyl CoA carboxylase reversible reaction,iYLI647(cor)
+-1.4452712516273536,PFK_3,2.24,phosphofructokinase s7p,iYLI647(cor)
+-1.3235287325042668,ADK1,2.05,adenylate kinase,iYLI647(cor)

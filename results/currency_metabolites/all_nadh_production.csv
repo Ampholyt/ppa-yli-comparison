@@ -1,0 +1,24 @@
+flux,reaction,percent,reaction_name,model
+13.11990116737551,GAPD,70.81,glyceraldehyde 3 phosphate dehydrogenase,iYLI647(cor)
+1.4471543049019178,IPMD,7.81,3 isopropylmalate dehydrogenase,iYLI647(cor)
+1.2355994151037626,LEUDH,6.67,2-Oxoisovalerate dehydrogenase,iYLI647(cor)
+1.2355994151037626,MBCOAi,6.67,isovaleryl-coa dehydrogenase,iYLI647(cor)
+0.9255023064610328,PGCD,4.99,phosphoglycerate dehydrogenase,iYLI647(cor)
+3.373460562131452,R344,84.24,glyceraldehyde-3-phosphate dehydrogenase,iYli21
+0.2461111193645677,R2119,6.15,"3-Oxopropanoate:NAD+ oxidoreductase (decarboxylating, CoA-acetylating)",iYli21
+0.1942157621590909,R641,4.85,phosphoglycerate dehydrogenase,iYli21
+10.368217558171908,R0367,49.73,D-glyceraldehyde-3-phosphate:NAD+ oxidoreductase (phosphorylating),iYli_2.0
+9.382490328768952,R1011,45.0,Nicotinamide adenine dinucleotide - reduced transport,iYli_2.0
+13.613092416672334,486,88.29,glyceraldehyde-3-phosphate dehydrogenase,iYali4(cor)
+0.9100897530585002,891,5.9,phosphoglycerate dehydrogenase,iYali4(cor)
+0.3643106526983576,988,2.36,"saccharopine dehydrogenase (NAD, L-lysine forming)",iYali4(cor)
+14.027049479129063,GAPD,90.31,glyceraldehyde 3 phosphate dehydrogenase,iMK735(cor)
+0.8606700467459832,PGCD,5.54,phosphoglycerate dehydrogenase,iMK735(cor)
+3.6784139291959614,r146,79.81,D-glyceraldehyde-3-phosphate:NAD+ oxidoreductase (phosphorylating),iLC915
+0.4534384143709352,r86,9.84,3-Phospho-D-glycerate:NAD+ 2-oxidoreductase,iLC915
+0.1111441055239338,r85,2.41,"(1R,2S)-1-hydroxybutane-1,2,4-tricarboxylate:NAD+ oxidoreductase",iLC915
+3.074006676519993,GAPD,81.56,glyceraldehyde-3-phosphate dehydrogenase,iMT1026v3
+0.1992821053943454,PGCD,5.29,phosphoglycerate dehydrogenase,iMT1026v3
+0.113101259442398,2OXOADOX,3.0,2-oxoadipate dehydrogenase complex,iMT1026v3
+0.113101259442398,GLUTCOADHc,3.0,glutaryl-CoA dehydrogenase (citosol),iMT1026v3
+0.0754840873448916,IPMD,2.0,3-isopropylmalate dehydrogenase,iMT1026v3

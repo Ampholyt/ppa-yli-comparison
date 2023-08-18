@@ -1,0 +1,26 @@
+EC;enzyme_name;enzyme_abbreviation;pathway_name;location;iYLI647_flux;iYLI647_reaction_id;iYLI647_min;iYLI647_max
+2.7.1.1;hexokinase;GLK;glycolysis;cytosol;100.0;HEX1;99.99999999999653;100.00000000001971
+5.3.1.9;glucose-6-phosphate isomerase;PGI;glycolysis;cytosol;36.422464499294605;PGI;36.422464499249685;36.42246449930224
+2.7.1.11;6-phosphofructokinase;PFK;glycolysis;cytosol;39.27939445784529;PFK;39.27939445793123;39.27939445784676
+4.1.2.13;fructose-bisphosphate aldolase;FBA;glycolysis;cytosol;39.27939445784529;FBA;39.27939445805043;39.27939445785762
+5.3.1.1;triosephosphate isomerase;TPI;glycolysis;cytosol;54.9761677213224;TPI;54.9761677213394;54.9761677213437
+1.2.1.12;glyceraldehyde-3-phosphate dehydrogenase;GAPA;glycolysis;cytosol;126.47966147136657;GAPD;126.47966147136363;126.47966147136594
+2.7.2.3;phosphoglycerate kinase;PGK;glycolysis;cytosol;-126.47966147136657;PGK;-126.47966147138291;-126.47966147135972
+5.4.2.11;2,3-bisphosphoglycerate-dependent phosphoglycerate mutase;gpmA;glycolysis;cytosol;-116.8231926511147;PGM;-116.82319265104897;-116.82319265105798
+4.2.1.11;enolase;ENO;glycolysis;cytosol;116.8231926511147;ENO;116.82319265112267;116.82319265112463
+2.7.1.40;pyruvate kinase;PYK;glycolysis;cytosol;113.96389296160856;PYK;113.96389296168476;113.9638929616217
+6.4.1.1;pyruvate carboxylase (Pyruvate -> Oxaloacetate);--;PyruvateOxidation;cytosol;22.129257420549123;PC;22.129257420549855;22.129257420601107
+pyruvate_mitochodrial_transport;pyruvate mitochondrial transport via proton symport;--;PyruvateOxidation;cytosol <=> mitochondrial;85.41538421299393;PYRt2m;85.41538421304779;85.41538421298084
+1.1.1.37;malate dehydrogenase (malate to oxaloacetate (producing oxaloacetate));--;PyruvateOxidation;cytosol <=> mitochondrial;24.37558589915909;MDHm;0.0;32.59248460909748
+1.2.4.1;pyruvate dehydrogenase E1 (Pyruvate -> Acetyl-CoA);--;PyruvateOxidation;mitochondrial;50.26883789761938;PDHm;50.268837897883884;50.268837897634064
+2.3.1.12;pyruvate dehydrogenase E2 component (Pyruvate -> Acetyl-CoA);--;PyruvateOxidation;mitochondrial;;;;
+2.3.3.1;citrate synthase (Oxaloacetate + Acetyl-CoA -> Citrate);--;TCA;mitochondrial;32.59248460909154;CSm;32.59248460912392;32.59248460915974
+4.2.1.3;aconitase (citrate to cis-aconitate(3-));--;TCA;mitochondrial;12.963369875737357;ACONT;0.0;32.5924846089913
+---; Alternatives to aconitase?;--;TCA;mitochondrial;;;;
+1.1.1.41;(w) isocitrate dehydrogenase (NAD+) (-964 flux);--;TCA;mitochondrial;0.0;ICDHxm;0.0;-9.206253537286102e-10
+1.2.4.2;(oxoglutarate dehydrogenase (lipoamide));--;TCA;mitochondrial;;;;
+2.3.1.61;oxoglutarate dehydrogenase (dihydrolipoamide S-succinyltransferase) / α-ketoglutarate dehydrogenase;--;TCA;mitochondrial;18.621067223346788;AKGDbm;18.62106722336523;18.62106722335481
+6.2.1.4;succinate-CoA ligase (ADP-forming) / succinyl-CoA synthetase (ADP-forming);--;TCA;mitochondrial;-18.621067223346788;SUCOASm;-18.621067223341512;-18.62106722227327
+6.2.1.5;(succinate-CoA ligase (ADP-forming) or itaconate-CoA ligase (ADP-forming));--;TCA;mitochondrial;0.0;ITCOALm;0.0;0.0
+1.3.5.1;succinate dehydrogenase (ubiquinone-6);--;TCA;mitochondrial;20.172174053551377;SUCD2_u6m;20.17217405361156;20.172174053546282
+4.2.1.2;fumarase (fumarate to malate);--;TCA;mitochondrial;20.172174053551377;FUMm;20.172174053416484;20.17217405356368

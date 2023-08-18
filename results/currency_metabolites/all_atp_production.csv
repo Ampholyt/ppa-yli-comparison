@@ -1,0 +1,27 @@
+flux,reaction,percent,reaction_name,model
+79.0063025067278,R1088,72.37,"ADP/ATP transporter, mitochondrial",iYli_2.0
+19.730222424533228,R0382,18.07,ATP:pyruvate 2-O-phosphotransferase,iYli_2.0
+10.368217558171834,R0369,9.5,ATP:3-phospho-D-glycerate 1-phosphotransferase,iYli_2.0
+39.34925126326448,ATPtm_H,61.07,ADPATP transporter mitochondrial,iYLI647(cor)
+13.119901167376176,PGK,20.36,phosphoglycerate kinase,iYLI647(cor)
+11.920355780907324,PYK,18.5,pyruvate kinase,iYLI647(cor)
+44.55881549830313,1110,63.05,ADP/ATP transporter,iYali4(cor)
+13.613092416667156,892,19.26,phosphoglycerate kinase,iYali4(cor)
+12.369149152475686,962,17.5,pyruvate kinase,iYali4(cor)
+23.024770697616027,ATPtm_H,79.81,"ADP/ATP transporter, mitochondrial",iMT1026v3
+3.0740066765200176,PGK,10.65,phosphoglycerate kinase,iMT1026v3
+2.7386098544822586,PYK,9.49,pyruvate kinase,iMT1026v3
+15.218256831688263,R815,70.04,ADP/ATP transporter,iYli21
+3.3734605621318963,R642,15.53,phosphoglycerate kinase,iYli21
+3.1079995036750767,R694,14.3,pyruvate kinase,iYli21
+44.51096607355709,ATPtm_H,62.26,ADPATP transporter mitochondrial,iMK735(cor)
+14.027049479131348,PGK,19.62,phosphoglycerate kinase,iMK735(cor)
+12.911483187111708,PYK,18.06,pyruvate kinase,iMK735(cor)
+75.84841266285085,r_1149,76.87,ADP/ATP transporter,iNL895(cor)
+11.545863993433455,r_0865,11.7,phosphoglycerate kinase,iNL895(cor)
+11.10395307010465,r_0941,11.25,pyruvate kinase,iNL895(cor)
+10.580953135661616,r1279,51.62,Mitochondrial pyrimidine nucleotide transporter,iLC915
+3.678413929215079,r596,17.95,ATP:3-phospho-D-glycerate 1-phosphotransferase,iLC915
+3.1196118259580805,r576,15.22,ATP:pyruvate 2-O-phosphotransferase,iLC915
+2.3137310188442397,r1407,11.29,ADP vacuolar transport,iLC915
+0.5451036331160557,r611,2.66,ATP:GDP phosphotransferase,iLC915

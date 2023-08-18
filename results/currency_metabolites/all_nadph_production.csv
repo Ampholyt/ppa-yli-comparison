@@ -1,0 +1,24 @@
+flux,reaction,percent,reaction_name,model
+4.545639349993636,GND,39.6,phosphogluconate dehydrogenase,iYLI647(cor)
+4.465681412374501,G6PDH2,38.9,glucose 6 phosphate dehydrogenase,iYLI647(cor)
+2.091527895144857,ICDHy,18.22,isocitrate dehydrogenase NADP,iYLI647(cor)
+0.3316784906535485,MTHFD,2.89,methylenetetrahydrofolate dehydrogenase NADP,iYLI647(cor)
+1.357026494914588,R488,61.16,isocitrate dehydrogenase (NADP),iYli21
+0.3707923694516898,R325,16.71,glucose 6-phosphate dehydrogenase,iYli21
+0.3707923694516898,R639,16.71,phosphogluconate dehydrogenase,iYli21
+0.0862294417804006,R550,3.89,methylenetetrahydrofolate dehydrogenase (NADP),iYli21
+9.882162955875405,659,94.64,isocitrate dehydrogenase (NADP),iYali4(cor)
+0.4040688073092899,732,3.87,methylenetetrahydrofolate dehydrogenase (NADP),iYali4(cor)
+4.70767648460928,ICDHy,42.96,isocitrate dehydrogenase NADP,iMK735(cor)
+2.9487416940213995,GND,26.91,phosphogluconate dehydrogenase,iMK735(cor)
+2.874369731308157,G6PDH2,26.23,glucose 6 phosphate dehydrogenase,iMK735(cor)
+0.3085054324150789,MTHFD,2.82,methylenetetrahydrofolate dehydrogenase NADP,iMK735(cor)
+0.9345595716537608,G6PDH2,47.24,glucose 6-phosphate dehydrogenase,iMT1026v3
+0.9345595716537608,GND,47.24,phosphogluconate dehydrogenase,iMT1026v3
+0.0857248849631132,MTHFD,4.33,methylenetetrahydrofolate dehydrogenase (NADP),iMT1026v3
+7.234197192083037,R0483,43.95,6-phospho-D-gluconate:NADP+ 2-oxidoreductase (decarboxylating),iYli_2.0
+7.234197192083037,R0490,43.95,beta-D-Glucose-6-phosphate:NADP+ 1-oxoreductase,iYli_2.0
+1.3834078999124015,R1461,8.4,Isocitrate:NADP+ oxidoreductase (decarboxylating),iYli_2.0
+0.3903719082830687,R0454,2.37,"5,10-methylenetetrahydrofolate:NADP+ oxidoreductase",iYli_2.0
+3.5550701109783134,r259,91.92,"5,6,7,8-Tetrahydrofolate:NADP+ oxidoreductase",iLC915
+0.267194840289408,r71,6.91,Isocitrate:NADP+ oxidoreductase (decarboxylating),iLC915

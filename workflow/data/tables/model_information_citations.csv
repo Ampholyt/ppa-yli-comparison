@@ -1,0 +1,17 @@
+Model Name;\#Genes;\#Metabolites;\#Reactions;Year;\#Compartments;Org;M-Score;Reference;
+iYLI647(cor) \cite{xu2020comparison};646;1121;1348;2018;8;Yli;33\%;\cite{xu2020comparison};
+iYLI647(uco) \cite{mishra2018genome};-;-;-;2018;-;Yli;-;\cite{mishra2018genome};
+iYali4(cor) \cite{xu2020comparison};901;1683;1987;2020;1;Yli;31\%;\cite{xu2020comparison};
+iYali4(uco) \cite{kerkhoven2016regulation};901;1683;1987;2016;14;Yli;13\%;\cite{kerkhoven2016regulation};
+iYli\_2.0(cor) \cite{xu2020comparison};645;1087;1479;2017;5;Yli;35\%;\cite{xu2020comparison};
+iYli\_2.0(uco) \cite{wei2017reconstruction};-;-;-;2017;-;Yli;-;\cite{wei2017reconstruction};
+iMK735(cor) \cite{xu2020comparison};735;1115;1342;2015;8;Yli;32\%;\cite{xu2020comparison};
+iMK735(uco) \cite{kavvsvcek2015optimization};735;1239;1464;2015;8;Yli;19\%;\cite{kavvsvcek2015optimization};
+iNL895(cor) \cite{xu2020comparison};899;1590;2008;2012;1;Yli;28\%;\cite{xu2020comparison};
+iNL895(uco) \cite{loira2012genome};899;1847;2262;2012;13;Yli;25\%;\cite{loira2012genome};
+iYli21 \cite{Guo2022};1058;1868;2285;2022;14;Yli;17\%;\cite{Guo2022};
+iMT1026v3 \cite{tomas2018fine};1026;1706;2237;2018;9;Ppa;19\%;\cite{tomas2018fine};
+iLC915 \cite{caspeta2012genome};915;1303;1423;2012;7;Ppa;19\%;\cite{caspeta2012genome};
+iPP668 \cite{chung2010genome};-;-;-;2010;-;Ppa;-;\cite{chung2010genome};
+iAF1260 \cite{feist2007genome};1261;1668;2382;2007;3;Eco;91\%;\cite{feist2007genome};
+iMM904 \cite{mo2009connecting};905;1226;1577;2009;8;Sce;85\%;\cite{mo2009connecting};

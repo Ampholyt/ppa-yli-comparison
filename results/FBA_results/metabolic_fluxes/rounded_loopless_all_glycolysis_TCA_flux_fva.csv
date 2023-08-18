@@ -1,0 +1,25 @@
+EC;enzyme_name;enzyme_abbreviation;pathway_name;location;iYali4_flux;iYali4_reaction_id;iYali4_min;iYali4_max;iYLI647_flux;iYLI647_reaction_id;iYLI647_min;iYLI647_max;iMT1026v3_flux;iMT1026v3_reaction_id;iMT1026v3_min;iMT1026v3_max;iYli21_flux;iYli21_reaction_id;iYli21_min;iYli21_max
+2.7.1.1;hexokinase;GLK;glycolysis;cytosol;100.0;534.0;100.0;100.0;100.0;HEX1;100.0;100.0;60.767;HEX1;0.0;100.0;100.0;R387;100.0;100.0
+5.3.1.9;glucose-6-phosphate isomerase;PGI;glycolysis;cytosol;86.865;467.0;86.865;86.865;36.422;PGI;36.422;36.422;0.0;PGI;0.0;39.233;47.143;R326;47.143;47.143
+2.7.1.11;6-phosphofructokinase;PFK;glycolysis;cytosol;68.217;886.0;68.217;68.217;39.279;PFK;39.279;39.279;43.906;PFK;43.906;43.906;42.596;R636;42.596;42.596
+4.1.2.13;fructose-bisphosphate aldolase;FBA;glycolysis;cytosol;68.217;450.0;-0.0;68.217;39.279;FBA;39.279;39.279;43.906;FBA;-0.0;43.906;42.596;R313;-0.0;42.596
+5.3.1.1;triosephosphate isomerase;TPI;glycolysis;cytosol;68.204;1054.0;68.204;68.204;54.976;TPI;54.976;54.976;56.565;TPI;56.565;56.565;54.909;R768;54.936;54.936
+1.2.1.12;glyceraldehyde-3-phosphate dehydrogenase;GAPA;glycolysis;cytosol;133.838;486.0;133.838;133.838;126.48;GAPD;126.48;126.48;123.76;GAPD;123.76;123.76;120.537;R344;120.537;120.537
+2.7.2.3;phosphoglycerate kinase;PGK;glycolysis;cytosol;133.838;892.0;133.838;133.838;-126.48;PGK;-126.48;-126.48;-123.76;PGK;-123.76;-123.76;120.537;R642;120.537;120.537
+5.4.2.11;2,3-bisphosphoglycerate-dependent phosphoglycerate mutase;gpmA;glycolysis;cytosol;124.411;893.0;124.411;124.411;-116.823;PGM;-116.823;-116.823;-115.253;PGM;-115.253;-115.253;111.099;R643;111.099;111.099
+4.2.1.11;enolase;ENO;glycolysis;cytosol;124.411;366.0;124.411;124.411;116.823;ENO;116.823;116.823;115.253;ENO;115.253;115.253;111.099;R292;111.099;111.099
+2.7.1.40;pyruvate kinase;PYK;glycolysis;cytosol;120.952;962.0;120.952;120.952;113.964;PYK;113.964;113.964;109.443;PYK;109.443;109.443;107.638;R694;107.638;107.638
+6.4.1.1;pyruvate carboxylase (Pyruvate -> Oxaloacetate);--;PyruvateOxidation;cytosol;34.772;958.0;34.772;34.772;22.129;PC;22.129;22.129;29.907;PC;29.907;29.907;46.767;R690;46.767;46.767
+pyruvate_mitochodrial_transport;pyruvate mitochondrial transport via proton symport;--;PyruvateOxidation;cytosol <=> mitochondrial;78.416;2034.0;78.416;78.416;85.415;PYRt2m;85.415;85.415;74.075;PYRt2m;74.075;74.075;53.099;R1311;53.099;53.099
+1.1.1.37;malate dehydrogenase (malate to oxaloacetate (producing oxaloacetate));--;PyruvateOxidation;cytosol <=> mitochondrial;76.026;713.0;59.199;76.026;24.376;MDHm;0.0;32.592;181.812;MDHm;181.812;187.153;62.665;R533;33.862;164.278
+1.2.4.1;pyruvate dehydrogenase E1 (Pyruvate -> Acetyl-CoA);--;PyruvateOxidation;mitochondrial;75.098;961.0;75.098;75.098;50.269;PDHm;50.269;50.269;64.137;PDHa1;64.137;64.137;49.778;R693;49.778;49.778
+2.3.1.12;pyruvate dehydrogenase E2 component (Pyruvate -> Acetyl-CoA);--;PyruvateOxidation;mitochondrial;;;;;;;;;62.141;PDHbrm;60.529;62.141;;;;
+2.3.3.1;citrate synthase (Oxaloacetate + Acetyl-CoA -> Citrate);--;TCA;mitochondrial;59.199;300.0;59.199;59.199;32.592;CSm;32.592;32.592;48.547;CSm;48.547;48.547;33.862;R236;33.862;33.862
+4.2.1.3;aconitase (citrate to cis-aconitate(3-));--;TCA;mitochondrial;47.017;2305.0;0.0;1000.0;12.963;ACONT;0.0;32.592;48.547;ACONTm;0.0;48.547;8.015;R238;0.0;33.862
+1.1.1.41;isocitrate dehydrogenase (NAD+);--;TCA;mitochondrial;-66.647;658.0;-964.278;-66.647;0.0;ICDHxm;0.0;-0.0;38.373;ICDHxm;38.373;40.153;0.0;R487;0.0;0.0
+1.2.4.2;oxoglutarate dehydrogenase (lipoamide);--;TCA;mitochondrial;28.706;832.0;28.706;28.706;;;;;;;;;15.533;R614;15.533;15.533
+2.3.1.61;oxoglutarate dehydrogenase (dihydrolipoamide S-succinyltransferase);--;TCA;mitochondrial;28.706;831.0;28.706;28.706;18.621;AKGDbm;18.621;18.621;29.213;AKGDbm;27.602;29.213;15.533;R613;15.533;15.533
+6.2.1.4;succinate-CoA ligase (ADP-forming);--;TCA;mitochondrial;28.706;1022.0;28.706;28.706;-18.621;SUCOASm;-18.621;-18.621;-29.213;SUCOASm;-29.213;-27.602;15.533;R741;15.533;15.533
+6.2.1.5;succinate-CoA ligase (ADP-forming) or itaconate-CoA ligase (ADP-forming);--;TCA;mitochondrial;0.0;668.0;0.0;0.0;0.0;ITCOALm;0.0;0.0;0.0;ITCOALm;0.0;0.0;0.0;R496;0.0;0.0
+1.3.5.1;succinate dehydrogenase (ubiquinone-6);--;TCA;mitochondrial;33.879;1021.0;33.879;33.879;20.172;SUCD2_u6m;20.172;20.172;30.6;SUCD2_u6m;0.0;30.6;20.711;R740;20.711;20.711
+4.2.1.2;fumarase (fumarate to malate);--;TCA;mitochondrial;28.706;451.0;28.706;28.706;20.172;FUMm;20.172;20.172;142.365;FUMm;142.365;1000.0;15.533;R314;15.533;15.533

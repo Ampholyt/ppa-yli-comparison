@@ -1,0 +1,13 @@
+modelName;Organism;Memote Quality;Error
+yli647(unc) \cite{yli647};Yli;33%;XML Error (model cannot be loaded), Error while reading using readCbModel() (model cannot be loaded)
+iYali4(cor) \cite{xu2020comparison};Yli;31%;SBML component consistency (reaction reference is not found) 
+iYli_2.0(cor) \cite{xu2020comparison};Yli;35%;No objective set
+iYli_2.0(unc) \cite{wei2017reconstruction};Yli;-;Error while reading using readCbModel() (model cannot be loaded)
+iMK735(cor) \cite{xu2020comparison};Yli;32%;No objective set
+iNL895(cor) \cite{xu2020comparison};Yli;-;SBML component consistency (reaction without reactants and products), No objective set
+PpaMBEL1254 \cite{sohn2010genome};Ppa;-;Not valid SBML (Not loadable by memote)
+iMT1026v1 \cite{tomas2016integration};Ppa;-;SBML component consistency (wrong formula definition) (model cannot be loaded)
+iLC915 \cite{caspeta2012genome};Ppa;19%;None
+iPP668 \cite{chung2010genome};Ppa;-;Error while reading using readCbModel() (model cannot be loaded)
+iAF1260 \cite{feist2007genome};Eco;91%;None
+iMM904 \cite{mo2009connecting};Sce;85%;None

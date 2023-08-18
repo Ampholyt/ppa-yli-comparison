@@ -1,0 +1,55 @@
+models:
+  ppa1026v3: '../data/models/Pichia_pastoris/iMT1026/Ppa_iMT1026v3_v2_read_write.xml'
+  ppa1026: '../data/models/Pichia_pastoris/iMT1026/Ppa_iMT1026.xml'
+  ppa1026Chan: '../data/models/Pichia_pastoris/iMT1026/Ppa_iMT1026_Chan2017.xml'
+  ppaiLC915: '../data/models/Pichia_pastoris/iLC915/Ppa_iLC915_MODEL1507180065.xml'
+  ppaMBEL1254: '../data/models/Pichia_pastoris/PpaMBEL1254/PpaMBEL1254.xml'
+  ppaiPP668: 'in excel format'
+  yli21_v1: '../data/models/Yarrowia_lipolytica/iYli21/iYli21_v1.xml'
+  yli21: '../data/models/Yarrowia_lipolytica/iYli21/iYli21_v2.xml'
+  # yli4: '../data/models/Yarrowia_lipolytica/iYali4/iYali4_v2.xml' # old and not sure where it comes from
+  yli4_uncorr: '../data/models/Yarrowia_lipolytica/iYali4/iYali4_uncorrected.xml'
+  yli4_corr: '../data/models/Yarrowia_lipolytica/iYali4/iYali4_corr_v2.xml'
+  yli2.0_corr: '../data/models/Yarrowia_lipolytica/iYli_2.0/iYli_2.0_corr_corr_v2.xml'
+  yli2.0_uncorr: 'in excel format'
+  yli647_uncorr: '../data/models/Yarrowia_lipolytica/iYLI647/iYLI647_uncorrected.xml'
+  yli647_corr: '../data/models/Yarrowia_lipolytica/iYLI647/iYLI647_corr_corr.xml'
+  iYL619_PCP: '../data/models/Yarrowia_lipolytica/iYL619_PCP/iYL619_PCP.xml'
+  yliMK735_corr: '../data/models/Yarrowia_lipolytica/iMK735/iMK735_corr.xml'
+  yliMK735_uncorr: '../data/models/Yarrowia_lipolytica/iMK735/Yli_iMK735_v2.xml'
+  yliNL895_corr: '../data/models/Yarrowia_lipolytica/iNL895/iNL895_corr.xml'
+  yliNL895_uncorr: '../data/models/Yarrowia_lipolytica/iNL895/Yli_iNL895.xml'
+  a3: '../data/models/0test/A3/valid_assignment_3_model.xml'
+  ecc: '../data/models/0test/Ecoli/e_coli_core.xml'
+  ecoli: '../data/models/0test/Ecoli/iAF1260.xml'
+  scere: '../data/models/0test/Scerevisiae/iMM904.xml'
+seperator: ';'
+experiments:
+  yli_growth: '../results/FBA_results/experimental_vs_simulation/'
+  reaction_table: '../data/metabolic_maps/glycolysis_citrate_table.csv'
+  efm_decomposition:
+    coefs: ../data/EFM_decomposition/coefs.npy
+    efms: ../data/EFM_decomposition/efms.npy
+    optimal_vector: ../data/EFM_decomposition/optimal_vector.npy
+  PhPP:
+    min_glu: 0.0101
+    max_glu: 3.5 # 5
+    min_oxy: 0.101 # 0.38
+    max_oxy: 6 # 10
+    number_computations: 30
+results:
+  metabolic_fluxes: 'results/FBA_results/metabolic_fluxes'
+  metabolic_comparison_condition: 'results/FBA_results/central_carbon_metabolism_fva_loopless.csv'
+  model_errors: '../workflow/results/quality/model_error_table.csv'
+  model_errors: '../workflow/results/quality/model_error_table.csv'
+  model_numbers: '../workflow/results/quality/number_tables/working_model_numbers.csv' # directory for the model's number of genes, reactions, metabolites, compartments
+  model_numbers_directory: '../workflow/results/quality/number_tables/' # directory for the model's number of genes, reactions, metabolites, compartments
+  EFM_model_dir: '../data/models/EFM_decomp/'
+general:
+  verbose: False
+  snakemake: True
+  show_plot: False
+  store_results: True
+  loopless: True
+  condition_name: 'all_031_maintenance_789'
+verbose: False

@@ -1,0 +1,10 @@
+channels:
+- conda-forge
+- defaults
+dependencies:
+- python==3.8.16
+- cobra==0.26.3
+- numpy==1.23.5
+- matplotlib==3.7.1
+- seaborn==0.12.2
+- seaborn-base==0.12.2

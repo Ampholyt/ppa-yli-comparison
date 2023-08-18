@@ -1,0 +1,1 @@
+This model (e_coli_core.xml) is downloaded from big as xml file with so called bigg_ids.

@@ -1,0 +1,16 @@
+flux,reaction,percent,reaction_name,model
+-3.555345191287369,r258,77.14,"5,6,7,8-Tetrahydrofolate:NAD+ oxidoreductase",iLC915
+-0.7371750402928643,r75,15.99,sn-Glycerol-3-phosphate:NAD+ 2-oxidoreductase,iLC915
+-0.1418234873293574,r254,3.08,L-Proline:NADP+ 5-oxidoreductase,iLC915
+-0.09361449552547,r269,2.03,NADH:ferricytochrome-b5 oxidoreductase,iLC915
+-12.750974294299796,R0001,61.16,L-glutamate:NAD+ oxidoreductase (transaminating),iYli_2.0
+-7.686704555604875,R1380,36.87,L-homoserine:NAD+ oxidoreductase,iYli_2.0
+-3.547602775974553,MDH,94.12,malate dehydrogenase,iMT1026v3
+-10.60806912917618,163,68.8,alcohol dehydrogenase (ethanol to acetaldehyde),iYali4(cor)
+-4.53273563406716,714,29.4,"malate dehydrogenase, cytoplasmic",iYali4(cor)
+-15.083506390439524,NADH2_u6cm,97.11,NADH dehydrogenase cytosolicmitochondrial,iMK735(cor)
+-0.3492906117875991,HSDxi,2.25,homoserine dehydrogenase NADH irreversible,iMK735(cor)
+-2.983178741939755,R130,74.49,alcohol dehydrogenase (ethanol to acetaldehyde),iYli21
+-0.9624523893616064,R534,24.03,"malate dehydrogenase, cytoplasmic",iYli21
+-17.522462330593033,NADH2_u6cm,94.57,NADH dehydrogenase cytosolicmitochondrial,iYLI647(cor)
+-0.3755270190474962,HSDxi,2.03,homoserine dehydrogenase NADH irreversible,iYLI647(cor)

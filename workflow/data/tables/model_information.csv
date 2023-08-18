@@ -1,0 +1,12 @@
+modelName;#Genes;#Metabolites;#Reactions;Year;#Compartments;Organism;Memote Quality;Reference
+yli647_corr;646;1121;1348;2018;8;Yli;33%;https://link.springer.com/article/10.1007/s12257-019-0208-1
+iYali4_corr;901;1683;1987;2020;1;Yli;31%;https://link.springer.com/article/10.1007/s12257-019-0208-1
+iYali4;901;1683;1987;2016;14;Yli;13%;https://www.nature.com/articles/npjsba20165
+iYli_2.0_corr;645;1087;1479;2017;5;Yli;35%;https://link.springer.com/article/10.1007/s12257-019-0208-1
+iMK735_corr;735;1115;1342;2015;8;Yli;32%;https://link.springer.com/article/10.1007/s12257-019-0208-1
+iNL895_corr;899;1590;2008;2012;1;Yli;28%;https://link.springer.com/article/10.1007/s12257-019-0208-1
+iYli21;1058;1868;2285;2022;14;Yli;17%;https://www.sciencedirect.com/science/article/pii/S200103702200174X?via%3Dihub
+iMT1026v3;1026;1706;2237;2018;9;Ppa;19%;https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5743807/#mbt212871-bib-0060
+iLC915;915;1303;1423;2012;7;Ppa;19%;https://bmcsystbiol.biomedcentral.com/articles/10.1186/1752-0509-6-24
+iAF1260;1261;1668;2382;2007;3;Eco;91%;https://pubmed.ncbi.nlm.nih.gov/17593909/
+iMM904;905;1226;1577;2009;8;Sce;85%;https://bmcsystbiol.biomedcentral.com/articles/10.1186/1752-0509-3-37

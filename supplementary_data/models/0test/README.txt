@@ -1,0 +1,1 @@
+The models for the comparison are stored in this directory, namely from E. coli and S. cerevisiae.
